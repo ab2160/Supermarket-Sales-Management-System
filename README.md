@@ -18,8 +18,8 @@ Supermarket-Management/
 │   ├── Detergent.txt
 │   └── Canned.txt
 │
-├── SupermarketFinalProject.slnx     # Visual Studio solution
-├── SupermarketFinalProject.vcxproj  # Visual Studio project
+├── SupermarketFinalProject.slnx    # Visual Studio solution
+├── SupermarketFinalProject.vcxproj # Visual Studio project
 └── README.md
 
 # Features
