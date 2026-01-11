@@ -1,0 +1,5 @@
+201         Shampoo                  100              50
+202         Soap                     60              100
+203         Power_Detergent          120              40
+204         Liquid_Detergent         150              30
+205         Dishwashing_Liquid       100              50

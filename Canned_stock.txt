@@ -1,0 +1,5 @@
+301         Canned_Beans             100              50
+302         Canned_Tomatoes          80               60
+303         Canned_Tuna              200              40
+304         Canned_Peas              100              40
+305         Canned_Fruits            150              50
