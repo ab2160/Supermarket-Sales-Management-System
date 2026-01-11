@@ -2,30 +2,24 @@
 
 A simple C++ console-based supermarket management system that uses object-oriented programming to manage inventory, sales and user roles. It supports both admin and employee operations, including adding, removing, selling products and tracking total sales and inventory value.
 
-## Project Structure
 Supermarket-Management/
 │
-Source files
-├── src/
-   └── main.cpp
-   └── Product.cpp
-   └── Supermarket.cpp
-   └── User.cpp
-
-Header files
-├── include/             
-    └── Supermarket.h
-
-
-Stock files
-├── data/                
-    └── Food.txt
-    └──  Detergent.txt
-    └── Canned.txt
-
-Project and solution name (for visual studio)
-└── SupermarketFinalProject.slnx
-└── SupermarketFinalProject.vcxproj
+├── src/                 # Source files
+│   ├── main.cpp
+│   ├── Product.cpp
+│   ├── Supermarket.cpp
+│   └── User.cpp
+│
+├── include/             # Header files
+│   └── Supermarket.h
+│
+├── data/                # Stock files
+│   ├── Food.txt
+│   ├── Detergent.txt
+│   └── Canned.txt
+│
+├── SupermarketFinalProject.slnx     # Visual Studio solution
+├── SupermarketFinalProject.vcxproj  # Visual Studio project
 └── README.md
 
 # Features
