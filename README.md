@@ -7,9 +7,9 @@ Supermarket-Management/
 │
 Source files
 ├── src/
-   ├── main.cpp
-   ├── Product.cpp
-   ├── Supermarket.cpp
+   └── main.cpp
+   └── Product.cpp
+   └── Supermarket.cpp
    └── User.cpp
 
 Header files
@@ -19,16 +19,14 @@ Header files
 
 Stock files
 ├── data/                
-│   ├── Food.txt
-│   ├── Detergent.txt
-│   └── Canned.txt
+    └── Food.txt
+    └──  Detergent.txt
+    └── Canned.txt
 
 Project and solution name (for visual studio)
-├── SupermarketFinalProject.slnx
-├── SupermarketFinalProject.vcxproj
+└── SupermarketFinalProject.slnx
+└── SupermarketFinalProject.vcxproj
 └── README.md
-
----
 
 # Features
 
