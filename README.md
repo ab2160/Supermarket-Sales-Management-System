@@ -14,8 +14,8 @@ Source files
 
 Header files
 ├── include/             
-│   └── Supermarket.h
-│
+    └── Supermarket.h
+
 
 Stock files
 ├── data/                
