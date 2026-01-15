@@ -45,4 +45,14 @@ int main()
     } while (choice != 2);
 
     return 0;
+
 }
+/*
+Group member               ID No.
+1. Abreham Molla           RCD/0889/2017
+2. Beka Gizaw              RCD/1612/2017
+3. Kalab Belay             RCD/0921/2017
+4. Paulos Simeon           RCD/1712/2017
+5. Kirubel Seifu           RCD/1811/2017
+6. Nahom Yemane            RCD/0092/2018
+*/
